@@ -14,7 +14,7 @@ Add the dependency in `pubspec.yaml`, import the file, and you are good to go.
 
 Add the dependency in `pubspec.yaml`
 ```yaml
-lcd_number_text: ^0.0.1
+lcd_number_text: ^0.0.2
 ```
 
 Import the widget into dart file
@@ -31,4 +31,4 @@ You can find more usage details in the [`/example`](https://github.com/Alfaizkha
 
 ## Additional information
 
-This package is licensed under [BSD 3-Clause License](https://github.com/Alfaizkhan/lcd_number_text/blob/main/LICENSE)
+This package is licensed under [MIT License](https://github.com/Alfaizkhan/lcd_number_text/blob/main/LICENSE)

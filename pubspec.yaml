@@ -1,6 +1,6 @@
 name: lcd_number_text
 description: An automatic sizer digital single-digit number with LCD style widget.
-version: 0.0.1
+version: 0.0.2
 # homepage:
 repository: https://github.com/Alfaizkhan/lcd_number_text
 
