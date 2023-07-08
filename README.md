@@ -24,10 +24,8 @@ import 'package:lcd_number_text/lcd_number_text.dart';
 
 ## Usage
 
-```dart
-// default usage
 <img width="1004" alt="LCD number" src="https://github.com/Alfaizkhan/lcd_number_text/blob/main/lcd-number.png">
-```
+
 
 You can find more usage details in the [`/example`](https://github.com/Alfaizkhan/lcd_number_text/tree/main/example).
 
