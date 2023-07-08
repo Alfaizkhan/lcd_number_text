@@ -1,6 +1,6 @@
 An automatic sizer digital single-digit number with LCD style widget.
 
-<img width="1004" alt="Example UI snap" src="https://github.com/Alfaizkhan/lcd_number_text/blob/main/example-snap.png">
+<img width="1004" alt="Example UI snap" src="https://raw.githubusercontent.com/Alfaizkhan/lcd_number_text/main/example-snap.png">
 
 ## Features
 
@@ -24,7 +24,7 @@ import 'package:lcd_number_text/lcd_number_text.dart';
 
 ## Usage
 
-<img width="1004" alt="LCD number" src="https://github.com/Alfaizkhan/lcd_number_text/blob/main/lcd-number.png">
+<img width="1004" alt="LCD number" src="https://raw.githubusercontent.com/Alfaizkhan/lcd_number_text/main/lcd-number.png">
 
 
 You can find more usage details in the [`/example`](https://github.com/Alfaizkhan/lcd_number_text/tree/main/example).
