@@ -1,6 +1,8 @@
 An automatic sizer digital single-digit number with LCD style widget.
 
-<img width="1004" alt="Example UI snap" src="https://raw.githubusercontent.com/Alfaizkhan/lcd_number_text/main/example-snap.png">
+<a href="https://www.buymeacoffee.com/imalfaizkhan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+<img height="512" alt="Example UI snap" src="https://raw.githubusercontent.com/Alfaizkhan/lcd_number_text/main/example-snap.png">
 
 ## Features
 
